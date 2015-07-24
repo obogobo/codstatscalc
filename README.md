@@ -5,6 +5,7 @@ OLD VB6 project, a simple program to give Call of Duty players insight into how 
 https://sites.google.com/site/codstatscalc/
 
 Example Output:
+<pre>
 COD4 Statistics:
 
 Total Kills: 30206
@@ -89,3 +90,4 @@ Average Shots Missed per Level: 1135.53
 Average Games Played per Level: 6.87
 Average Games Won per Level: 3.03
 Average Games Lost per Level: 3.84
+</pre>
